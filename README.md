@@ -9,8 +9,8 @@
 
 > **Uage:**
 
-> - ``` clone https://github.com/q132645798/dotsetting.git```
-> - ```ln -s ~/dotsetting/vim/vimrc ~/.vimrc```
+> - ```shell $clone https://github.com/q132645798/dotsetting.git```
+> - ```shell $ln -s ~/dotsetting/vim/vimrc ~/.vimrc```
 
 
 ------
