@@ -15,3 +15,5 @@
 ------
 
  [1]: https://github.com/robbyrussell/oh-my-zsh oh-my-zsh
+ [2]: https://github.com/tpope/vim-pathogen pathogen
+ [3]: https://github.com/davidhalter/jedi-vim jedi-vim
