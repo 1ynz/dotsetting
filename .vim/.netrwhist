@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/home/lin/python/mitm/lib'
-let g:netrw_dirhist_2='/home/lin/python/mitm'
-let g:netrw_dirhist_3='/home/lin/python/ocr-python/input'
-let g:netrw_dirhist_4='/home/lin/saas/sysinfo'
-let g:netrw_dirhist_5='/home/lin/python/flask/dcard/app/intro_to_flask'
-let g:netrw_dirhist_6='/home/lin/python/flask/dcard/app/intro_to_flask/templates'
-let g:netrw_dirhist_7='/home/lin/python/ocr-python/input'
