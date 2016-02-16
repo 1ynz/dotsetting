@@ -1,16 +1,16 @@
 # **My setting files**
 
-> **File list**
+ **File list**
 
-> - vimrc & color
-> - tmux
-> - zshrc
+ - vimrc & color
+ - tmux
+ - zshrc
 
 
-> **Uage:**
+ **Uage:**
 
-> - ```$clone https://github.com/q132645798/dotsetting.git```
-> - ```$ln -s ~/dotsetting/vim/vimrc ~/.vimrc```
+ - ```$clone https://github.com/q132645798/dotsetting.git```
+ - ```$ln -s ~/dotsetting/vim/vimrc ~/.vimrc```
 
 
 ------
