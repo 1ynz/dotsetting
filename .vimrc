@@ -1,0 +1,12 @@
+set encoding=utf8
+set tabstop=4
+set expandtab
+set softtabstop=4
+set shiftwidth=4
+set number
+set showcmd
+set ruler
+set showmode
+syntax on
+set t_Co=256
+colorscheme wombat256
