@@ -1,0 +1,2 @@
+# dotsetting
+My setting file.
