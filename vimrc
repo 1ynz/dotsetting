@@ -56,6 +56,7 @@ autocmd BufNewFile *.py 1put =\"# encoding: utf8\<nl>\"|$
 autocmd BufNewFile *.py 2put =\"\<nl>\"|$
 
 " Basic setting
+set encoding=utf8
 set tabstop=4
 set expandtab
 set softtabstop=4
