@@ -44,6 +44,11 @@ NeoBundleCheck
 " File Type
 autocmd FileType python setlocal et sta sw=4 sts=4 cc=80 completeopt-=preview
 
+" nerdtree
+let g:NERDTreeDirArrowExpandable = '+'
+let g:NERDTreeDirArrowCollapsible = '-'
+
+
 " Basic setting
 set tabstop=4
 set expandtab
