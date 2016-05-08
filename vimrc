@@ -47,6 +47,8 @@ autocmd FileType python setlocal et sta sw=4 sts=4 completeopt-=preview
 " nerdtree
 let g:NERDTreeDirArrowExpandable = '>'
 let g:NERDTreeDirArrowCollapsible = '-'
+let g:NERDTreeWinSize=22
+let NERDTreeIgnore=['__pycache__', '\.pyc$', '\~$']
 
 " Python header
 autocmd BufNewFile *.py 0put =\"#!/usr/bin/env python\<nl>\"|$
