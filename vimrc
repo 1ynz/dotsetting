@@ -48,6 +48,10 @@ autocmd FileType python setlocal et sta sw=4 sts=4 completeopt-=preview
 let g:NERDTreeDirArrowExpandable = '>'
 let g:NERDTreeDirArrowCollapsible = '-'
 
+" Python header
+autocmd BufNewFile *.py 0put =\"#!/usr/bin/env python\<nl>\"|$
+autocmd BufNewFile *.py 1put =\"# encoding: utf8\<nl>\"|$
+autocmd BufNewFile *.py 2put =\"\<nl>\"|$
 
 " Basic setting
 set tabstop=4
