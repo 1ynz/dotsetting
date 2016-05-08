@@ -42,10 +42,10 @@ filetype plugin indent on
 NeoBundleCheck
 
 " File Type
-autocmd FileType python setlocal et sta sw=4 sts=4 cc=80 completeopt-=preview
+autocmd FileType python setlocal et sta sw=4 sts=4 completeopt-=preview
 
 " nerdtree
-let g:NERDTreeDirArrowExpandable = '+'
+let g:NERDTreeDirArrowExpandable = '>'
 let g:NERDTreeDirArrowCollapsible = '-'
 
 
