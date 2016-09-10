@@ -23,6 +23,10 @@ NeoBundle 'Shougo/vimproc.vim', {
 \    },
 \ }
 
+" Vim airline
+NeoBundle 'vim-airline/vim-airline'
+set laststatus=2
+
 " Powerful Editing
 NeoBundle 'vim-scripts/Auto-Pairs'
 
