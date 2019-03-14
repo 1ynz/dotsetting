@@ -2,7 +2,7 @@
 
 set -e
 
-cp ./vimrc > ~/.vimrc
-cp ./vim > ~/.vim
-cp ./tmux.conf > ~/.tmux.conf
-cp ./zshrc > ~/.zshrc
+cp ./vimrc ~/.vimrc
+cp -r ./vim ~/.vim
+cp ./tmux.conf ~/.tmux.conf
+cp ./zshrc ~/.zshrc
