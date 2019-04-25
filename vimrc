@@ -33,6 +33,10 @@ NeoBundle 'vim-scripts/Auto-Pairs'
 " Useful Tool
 NeoBundle 'scrooloose/nerdtree'
 
+" commenter
+NeoBundle 'scrooloose/nerdcommenter'
+let mapleader=","
+
 " For Python
 "NeoBundle 'davidhalter/jedi-vim'
 
