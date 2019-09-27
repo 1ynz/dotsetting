@@ -76,3 +76,4 @@ set showmode
 syntax on
 set t_Co=256
 colorscheme wombat256
+set hlsearch
