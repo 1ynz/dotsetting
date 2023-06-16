@@ -6,11 +6,6 @@
  - tmux
  - zshrc
 
-
-**Uage:**
-
- - ```$clone https://github.com/q132645798/dotsetting.git```
-
 ------
 
 [1]: https://github.com/robbyrussell/oh-my-zsh oh-my-zsh
